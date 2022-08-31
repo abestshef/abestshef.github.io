@@ -1,8 +1,8 @@
+---
 layout: page
-
-title: "People"
-
+title: People
 permalink: /people
+---
 
 # Alex Best
 ## Group leader
