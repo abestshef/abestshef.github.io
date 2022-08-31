@@ -11,7 +11,7 @@ In our group we use mathematical and computational tools to understand the ecolo
 
 [Meet the research group](/people)
 
-<p float="left">
+<p float="middle">
   <img src="docs/assets/spatial.gif" height="150" />
   <img src="docs/assets/forestfire.gif" height="150" /> 
 </p>
