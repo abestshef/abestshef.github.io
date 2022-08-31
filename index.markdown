@@ -11,7 +11,8 @@ In our group we use mathematical and computational tools to understand the ecolo
 
 [Meet the research group](/people)
 
-![Simulation of epidemic spread on a lattice](/docs/assets/spatial.gif)
+<img src="docs/assets/spaial.gif" height=150>
+<img src="docs/assets/foresfire.gif" height=150>
 
 # Teaching
 
