@@ -1,4 +1,4 @@
-I am a maths lecturer, disease modeller, parent, husband, cook, book-lover and very amateur baseball player.
+I am a maths lecturer, disease modeller, parent, husband, book-lover, amateur cook and very amateur baseball player.
 
 # Research
 
@@ -15,7 +15,7 @@ In our group we use mathematical and computational tools to understand the ecolo
 
 I teach a range of mathematics and statistics modules, mostly focussing on mathematical modelling of real-world problems. You can find materials for current courses below:
 
-* MAS377 Mathematical Biology
+* [MAS377 Mathematical Biology](/mas377/)
 
 # Public engagement
 
