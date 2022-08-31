@@ -1,8 +1,3 @@
----
-layout: page
-title: People
-permalink: /people
----
 
 # Alex Best
 ## Group leader
