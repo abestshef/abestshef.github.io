@@ -11,6 +11,8 @@ In our group we use mathematical and computational tools to understand the ecolo
 
 [Meet the research group](/people)
 
+![Simulation of epidemic spread on a lattice](/docs/assets/spatial.gif)
+
 # Teaching
 
 I teach a range of mathematics and statistics modules, mostly focussing on mathematical modelling of real-world problems. You can find materials for current courses below:
