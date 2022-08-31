@@ -19,7 +19,7 @@ Studying the dynamics of bacteria, it's treatment(s) and how it used bet-hedging
 
 # Prerna Singh
 ## PhD student
-
+<img align="left" height="150" src="Prerna.jpg">
 *Host-parasite interactions in fluctuating environments*
 My research area consists of the evolution of host-parasite interactions. So, I develop and analyse mathematical models governing the evolutionary dynamics of hosts and parasites in heterogeneous environments. I also study the dynamics of infectious diseases at a range of biological scales. I have obtained my undergraduate degree (BSc) from University of Delhi and masters (MSc) from IIT Madras, India. Apart from that, I have some research expertise in areas related to "e-epidemic modeling". I am really glad to be a part of this amazing research group and the University and hope to make the best out of it. 
 
