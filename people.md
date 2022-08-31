@@ -3,6 +3,8 @@
 ## Alex Best
 **Lecturer and group leader**
 
+<img src="docs/assets/Alex.JPG" height="150">
+
 My research interests cover the dynamics of infectious diseases at a range of biological scales, from the interactions between pathogens and immune cells within hosts, to the population dynamics of ecological populations faced with disease, to the co-evolution of hosts and their parasites. The majority of my time is spent studying the latter of these issues. In particular I am interested in how the evolution of host defences and their coevolution with parasite infectivity feedback to, and are driven by, the underlying population dynamics.
 
 After gaining a BSc in Maths & Philosophy (Durham) and an MRes in Mathematical Biology (York), I studied for my PhD in the Animal & Plant Sciences department at Sheffield under the supervision of Prof. Mike Boots. Postdocs in Sheffield (Animal & Plant Sciences) and Exeter (Biosciences) followed. In 2013 I returned to Sheffield but across the road in the School of Mathematics & Statistics as a Leverhulme Early Career Research Fellow. In September 2016 I was appointed a lecturer.
@@ -10,18 +12,25 @@ After gaining a BSc in Maths & Philosophy (Durham) and an MRes in Mathematical B
 ## Laminu Idris
 **PhD student**
 
+<img src="docs/assets/laminu.jpg" height="150">
+
 *Modelling the Resistance of Anti-microbial (Antibiotics) Treatments by Bacteria through Bet-hedging Strategy*
 
 Studying the dynamics of bacteria, it's treatment(s) and how it used bet-hedging as a strategy to acquire resistance to antibiotics (anti-microbial) treatment(s) rather than other strategies. In this context of bet-hedging, some fractional parts of the bacteria will not take part in the bacterial reproduction, as such they deactivate their metabolism which causes them not to divide and can not be killed by the antibiotic. When treatment is finished or removed, some resistance bacteria can wake up and continue to regrow which will form some nucleus for their reappearance. Possessed a National Diploma in Statistics at "The Federal Polytechnic, P.M.B. 1012, Kaura Namoda, Zamfara State, Nigeria" (1999), First degree in Mathematics/Computer Science (2006) and Second degree in Applied Mathematics (2011) both at "Federal University of Technology, P.M.B. 65, Minna, Niger State, Nigeria". 
 
 ## Prerna Singh
 **PhD student**
+
+<img src="docs/assets/Prerna.jpeg" height="150">
+
 *Host-parasite interactions in fluctuating environments*
 
 My research area consists of the evolution of host-parasite interactions. So, I develop and analyse mathematical models governing the evolutionary dynamics of hosts and parasites in heterogeneous environments. I also study the dynamics of infectious diseases at a range of biological scales. I have obtained my undergraduate degree (BSc) from University of Delhi and masters (MSc) from IIT Madras, India. Apart from that, I have some research expertise in areas related to "e-epidemic modeling". I am really glad to be a part of this amazing research group and the University and hope to make the best out of it. 
 
 ## Megan Oliver
 **PhD student**
+
+<img src="docs/assets/Megan.jpg" height="150">
 
 *Host evolution to multiple parasites*
 
