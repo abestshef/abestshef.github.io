@@ -21,5 +21,5 @@ I teach a range of mathematics and statistics modules, mostly focussing on mathe
 
 I have developed some interactive web apps for use at public engagement and schools outreach events:
 
-* [How do local interactions impact an epidemic?](bit.ly/local_pi)
-* [How can we control an epidemic on a university campus?](bit.ly/epi_uni_app)
+* [How do local interactions impact an epidemic?](http://bit.ly/local_pi)
+* [How can we control an epidemic on a university campus?](http://bit.ly/epi_uni_app)
