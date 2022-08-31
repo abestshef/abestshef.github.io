@@ -1,5 +1,6 @@
 ---
 title: Research group 
+description: "Who we are and what we do."
 ---
 ## Meet the research group
 ## Alex Best
