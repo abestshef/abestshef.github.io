@@ -12,8 +12,8 @@ In our group we use mathematical and computational tools to understand the ecolo
 [Meet the research group](/people)
 
 <p float="left">
-  <img src="docs/assets/spaial.gif" height="150" />
-  <img src="docs/assets/foresfire.gif" height="150" /> 
+  <img src="docs/assets/spatial.gif" height="150" />
+  <img src="docs/assets/forestfire.gif" height="150" /> 
 </p>
 
 # Teaching
