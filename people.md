@@ -1,4 +1,6 @@
-
+---
+title: Research group
+---
 # Meet the research group
 ## Alex Best
 **Lecturer and group leader**
