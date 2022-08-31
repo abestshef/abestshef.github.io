@@ -1,8 +1,3 @@
----
-layout: page
-title: Home
----
-
 I am a maths lecturer, disease modeller, parent, husband, cook, book-lover and very amateur baseball player.
 
 # Research
