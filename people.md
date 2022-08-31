@@ -1,5 +1,5 @@
 ---
-title: Research group
+title: Research group 
 ---
 ## Meet the research group
 ## Alex Best
