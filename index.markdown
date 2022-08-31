@@ -9,6 +9,8 @@ In our group we use mathematical and computational tools to understand the ecolo
 * Does the presence of a predator alter host and parasite evolution?
 * What is the optimal class size to limit an epidemic amongst a University cohort?
 
+[Meet the research group](/people)
+
 # Teaching
 
 I teach a range of mathematics and statistics modules, mostly focussing on mathematical modelling of real-world problems. You can find materials for current courses below:
