@@ -29,7 +29,7 @@ I am researching host-parasite relationships when multiple infection is present.
 
 # Ryan Grossman
 ## PhD student
-
+ 
 *Host-parasite coevolution*
 My current research interests focus on population and ecological dynamics of infectious disease systems. In particular, I will be working on the evolutionary modelling of host-parasite associations, concentrating on the coevolution of hosts and their parasites which infect them. Factors I will take into account are, but not limited to, spatial structure, and various trade-offs that arise as a result of the host developing costly resistive strategies against invading parasites.After completing my undergraduate and masters studies in Mathematics at the University of Manchester, I am very happy to join the University of Sheffield, and this great research group. 
 
