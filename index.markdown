@@ -20,7 +20,8 @@ In our group we use mathematical and computational tools to understand the ecolo
 
 I teach a range of mathematics and statistics modules, mostly focussing on mathematical modelling of real-world problems. You can find materials for current courses below:
 
-* [MAS377 Mathematical Biology](/mas377/)
+* [MAS377 Mathematical biology](/mas377/)
+* [MAS316 Mathematical modelling of natural systems](/mas316notes) (Stochastic epidemic models topic, notes only)
 
 # Public engagement
 
@@ -28,3 +29,4 @@ I have developed some interactive web apps for use at public engagement and scho
 
 * [How do local interactions impact an epidemic?](https://bit.ly/local_epi)
 * [How can we control an epidemic on a university campus?](https://bit.ly/epi_uni_app)
+* [Discover STEM 2022 workshop](https://colab.research.google.com/drive/1qwQCiG0zUrQxmKWLenDXY_QQGN4SL6gi#scrollTo=fQhNbobhg7QC) (Requires a Sheffield GMail account)
