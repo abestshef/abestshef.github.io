@@ -46,23 +46,23 @@ I am researching host-parasite relationships when multiple infection is present.
 
 My current research interests focus on population and ecological dynamics of infectious disease systems. In particular, I will be working on the evolutionary modelling of host-parasite associations, concentrating on the coevolution of hosts and their parasites which infect them. Factors I will take into account are, but not limited to, spatial structure, and various trade-offs that arise as a result of the host developing costly resistive strategies against invading parasites.After completing my undergraduate and masters studies in Mathematics at the University of Manchester, I am very happy to join the University of Sheffield, and this great research group. 
 
-# Former students
-## Charlotte Ward - PhD Student (2017 - 2020)
+## Former students
+### Charlotte Ward - PhD Student (2017 - 2020)
 *The impact of seasonality on disease dynamics*
 
 Next step: Research ecologist at British Trust for Ornithology
 
-## Caterina Vitale - PhD Student (2016 - 2020)
+### Caterina Vitale - PhD Student (2016 - 2020)
 *The ecology and evolution of host tolerance to disease*
 
 Next step: Graduate job at international consultancy firm
 
-## Charlotte Ferris - PhD Student (2015 - 2019)
+### Charlotte Ferris - PhD Student (2015 - 2019)
 *The evolution of host defence in variable environments*
 
 Next step: Trained to become a secondary-school maths teacher.
 
-## Jaspreet Toor - PhD Student (2013 - 2016)
+### Jaspreet Toor - PhD Student (2013 - 2016)
 *The evolution of hosts and parasites in complex communities*
 
 Next step: Postdoctoral position at Imperial. 
