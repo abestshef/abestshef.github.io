@@ -30,3 +30,9 @@ I have developed some interactive web apps for use at public engagement and scho
 * [How do local interactions impact an epidemic?](https://bit.ly/local_epi)
 * [How can we control an epidemic on a university campus?](https://bit.ly/epi_uni_app)
 * [Discover STEM 2022 workshop](https://colab.research.google.com/drive/1qwQCiG0zUrQxmKWLenDXY_QQGN4SL6gi#scrollTo=fQhNbobhg7QC) (Requires a Sheffield GMail account)
+
+# Twitter
+
+Follow me for my thoughts on science, academia, politics, sport and assorted random topics.
+
+<a class="twitter-timeline" href="https://twitter.com/DrAlexBest?ref_src=twsrc%5Etfw">Tweets by DrAlexBest</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
