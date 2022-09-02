@@ -37,4 +37,4 @@ I have developed some interactive web apps for use at public engagement and scho
 
 Follow me for my thoughts on science, academia, politics, sport and assorted random topics.
 
-<a class="twitter-timeline" href="https://twitter.com/DrAlexBest?ref_src=twsrc%5Etfw">Tweets by DrAlexBest</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<a class="twitter-timeline" data-width="300" data-height="500" href="https://twitter.com/DrAlexBest?ref_src=twsrc%5Etfw">Tweets by DrAlexBest</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
