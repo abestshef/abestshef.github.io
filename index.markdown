@@ -20,8 +20,8 @@ In our group we use mathematical and computational tools to understand the ecolo
 
 I teach a range of mathematics and statistics modules, mostly focussing on mathematical modelling of real-world problems. You can find materials for current courses below:
 
-* [MAS377 Mathematical biology](/mas377/)
-* [MAS316 Mathematical modelling of natural systems](/mas316notes) (Stochastic epidemic models topic, notes only)
+* [MAS377 Mathematical Biology](/mas377/)
+* [MAS316 Mathematical Modelling of Natural Systems](/mas316notes) (notes only)
 
 # Public engagement
 
