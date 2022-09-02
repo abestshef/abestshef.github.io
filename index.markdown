@@ -11,6 +11,8 @@ In our group we use mathematical and computational tools to understand the ecolo
 
 [Meet the research group](/people)
 
+[See my publications on Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=KVL_a1kAAAAJ&view_op=list_works&sortby=pubdate)
+
 <p float="middle">
   <img src="docs/assets/spatial.gif" height="150" />
   <img src="docs/assets/forestfire.gif" height="150" /> 
