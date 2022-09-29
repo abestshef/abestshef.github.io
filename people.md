@@ -12,7 +12,7 @@ My research interests cover the dynamics of infectious diseases at a range of bi
 
 After gaining a BSc in Maths & Philosophy (Durham) and an MRes in Mathematical Biology (York), I studied for my PhD in the Animal & Plant Sciences department at Sheffield under the supervision of Prof. Mike Boots. Postdocs in Sheffield (Animal & Plant Sciences) and Exeter (Biosciences) followed. In 2013 I returned to Sheffield but across the road in the School of Mathematics & Statistics as a Leverhulme Early Career Research Fellow. In September 2016 I was appointed a lecturer.
 
-<a href="cv_abest_2021">Click here for my CV</a>.
+<a href="cv_abest_2021.pdf">Click here for my CV</a>.
 
 ## Laminu Idris
 **PhD student**
