@@ -14,15 +14,6 @@ After gaining a BSc in Maths & Philosophy (Durham) and an MRes in Mathematical B
 
 <a href="cv_abest_2021.pdf">Click here for my CV</a>.
 
-## Laminu Idris
-**PhD student**
-
-<img src="docs/assets/laminu.jpg" height="150">
-
-*Modelling the Resistance of Anti-microbial (Antibiotics) Treatments by Bacteria through Bet-hedging Strategy*
-
-Studying the dynamics of bacteria, it's treatment(s) and how it used bet-hedging as a strategy to acquire resistance to antibiotics (anti-microbial) treatment(s) rather than other strategies. In this context of bet-hedging, some fractional parts of the bacteria will not take part in the bacterial reproduction, as such they deactivate their metabolism which causes them not to divide and can not be killed by the antibiotic. When treatment is finished or removed, some resistance bacteria can wake up and continue to regrow which will form some nucleus for their reappearance. Possessed a National Diploma in Statistics at "The Federal Polytechnic, P.M.B. 1012, Kaura Namoda, Zamfara State, Nigeria" (1999), First degree in Mathematics/Computer Science (2006) and Second degree in Applied Mathematics (2011) both at "Federal University of Technology, P.M.B. 65, Minna, Niger State, Nigeria". 
-
 ## Prerna Singh
 **PhD student**
 
@@ -49,6 +40,12 @@ I am researching host-parasite relationships when multiple infection is present.
 My current research interests focus on population and ecological dynamics of infectious disease systems. In particular, I will be working on the evolutionary modelling of host-parasite associations, concentrating on the coevolution of hosts and their parasites which infect them. Factors I will take into account are, but not limited to, spatial structure, and various trade-offs that arise as a result of the host developing costly resistive strategies against invading parasites.After completing my undergraduate and masters studies in Mathematics at the University of Manchester, I am very happy to join the University of Sheffield, and this great research group. 
 
 ## Former students
+
+### Laminu Idris - PhD Student (2017 - 2022)
+*Modelling the resistance of bacteria through bet-hedging strategies*
+
+Next step: University teaching post
+
 ### Charlotte Ward - PhD Student (2017 - 2020)
 *The impact of seasonality on disease dynamics*
 
