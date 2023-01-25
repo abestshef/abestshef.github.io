@@ -8,11 +8,13 @@ description: "Who we are and what we do."
 
 <img src="docs/assets/Alex.JPG" height="150">
 
-My research interests cover the dynamics of infectious diseases at a range of biological scales, from the interactions between pathogens and immune cells within hosts, to the population dynamics of ecological populations faced with disease, to the co-evolution of hosts and their parasites. The majority of my time is spent studying the latter of these issues. In particular I am interested in how the evolution of host defences and their coevolution with parasite infectivity feedback to, and are driven by, the underlying population dynamics.
+My research interests cover the dynamics of infectious diseases at a range of biological scales, from the interactions between pathogens and immune cells within hosts, to the population dynamics of ecological populations faced with disease, to the co-evolution of hosts and their parasites. In particular I am interested in how the evolution of host defences and their coevolution with parasite infectivity feedback to, and are driven by, the underlying population dynamics.
 
 After gaining a BSc in Maths & Philosophy (Durham) and an MRes in Mathematical Biology (York), I studied for my PhD in the Animal & Plant Sciences department at Sheffield under the supervision of Prof. Mike Boots. Postdocs in Sheffield (Animal & Plant Sciences) and Exeter (Biosciences) followed. In 2013 I returned to Sheffield but across the road in the School of Mathematics & Statistics as a Leverhulme Early Career Research Fellow. In September 2016 I was appointed a lecturer.
 
 <a href="cv_abest_2021.pdf">Click here for my CV</a>.
+[Click here for my Google Scholar page](https://scholar.google.co.uk/citations?user=KVL_a1kAAAAJ&hl=en).
+
 
 ## Prerna Singh
 **PhD student**
