@@ -60,6 +60,6 @@ In fact, if you choose for more points to be on offer in each game, both the lat
 
 As mentioned, in the postseason playoffs the top 4 teams compete to be the overall champions. There are two semi-finals (1st v 4th and 2nd v 3rd) followed by a final. Using the probabilites given by their ratings, we can then predict who should have been victorious. The chart below shows the predicted winner from 5000 simulated playoffs.
 
-![Predictions](predicitons.png)
+![Predictions](predictions.png)
 
 This shows that the Trojans and Bees will be kicking themselves that they didn't come away as overall winners, and that the Cubs overcame pretty big odds to win the play0ffs.
