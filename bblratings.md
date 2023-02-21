@@ -56,7 +56,7 @@ This shows that the Trojans and Bees will be kicking themselves that they didn't
 
 **Regular + postseason ratings**
 
-Finaly we can add in the postseason results to see who was the best team across the whole season. I increased the points awarded in the playoffs a little since there is more riding on each match here than in the regular season.
+Finally we can add in the postseason results to see who was the best team across the whole season. I increased the points awarded in the playoffs a little since there is more riding on each match here than in the regular season.
 
 |Position |Team  | Rating|
 --- | --- | ---|
