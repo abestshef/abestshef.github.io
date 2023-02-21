@@ -20,7 +20,7 @@ In 2022, each team in the single-A division played 24 games in the regular seaso
 |10|Co Durham Spartans|4|
 |11|Sheffield Bladerunners 3|3|
 
-There was then a postseason playoff between the top 4 teams, with the Sheffield Cubs coming away victorious.
+There was then a postseason playoff between the top 4 teams, with the **Sheffield Cubs coming away as the playoff champions**.
 
 **Regular season Elo ratings**
 
@@ -53,6 +53,26 @@ In the postseason playoffs the top 4 teams compete to be the overall champions. 
 ![Predictions](predictions.png)
 
 This shows that the Trojans and Bees will be kicking themselves that they didn't come away as overall winners, and that the Cubs overcame pretty big odds to win the playoffs.
+
+**Regular + postseason ratings**
+
+Finaly we can add in the postseason results to see who was the best team across the whole season. I increased the points awarded in the playoffs a little since there is more riding on each match here than in the regular season.
+
+|Position |Team  | Rating|
+--- | --- | ---|
+|1|Manchester Bees|1679.7|
+|2|Halton Trojans|1663.1|
+|3|Wragby Warhammers|1620.6|
+|4|Sheffield Cubs|1607.9|
+|5|Hull Scorpions|1518.3|
+|6|Leeds Locos|1478.0|
+|7|Manchester Cs|1445.2|
+|8|Halton Twojans|1400.1|
+|9|Newcastle Nighthawks 2|1399.9|
+|10|Co Durham Spartans|1355.0|
+|11|Sheffield Bladerunners 3|1332.4|
+
+So, despite neither winning the division in the regular season or the postseason playoffs, the ratings would say that **Manchester Bees were the best team overall in 2022**.
 
 **What are Elo ratings?**
 
