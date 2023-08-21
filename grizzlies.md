@@ -1,6 +1,8 @@
 Photos from the Grizzlies - Locos game.
 
-<img src="https://github.com/abestshef/grizzlies/blob/main/IMG_8327.jpg" width="200"/>
+
+
+<img src="https://github.com/abestshef/grizzlies/blob/73268beb7a21c738abf31b3314363dfa004fd3ac/IMG_8327.jpg" width="200"/>
 
 <img src="https://github.com/abestshef/grizzlies/blob/main/IMG_8328.jpg" width="200"/>
 
