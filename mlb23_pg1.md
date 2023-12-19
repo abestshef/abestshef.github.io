@@ -33,12 +33,12 @@ This algorithm is then repeated for every game that takes place. With some thoug
 
 Let's take a simple example using the team I support, the San Francisco Giants. After 20 games they had a 7-13 record and an Elo score of 1446 (which we'll call $S_{Giants}$). Their next game was against the New York Mets, who had a rather better 14-8 record and an Elo score of 1546 ($S_{Mets}$). The probability of the Giants winning is then calculated as,
 
-$$ \frac{1}{1+10^{(S_{Mets}-S_{Giants})/400}} $$
+$$\frac{1}{1+10^{(S_{Mets}-S_{Giants})/400}}$$
 
 which gives a 36% chance (and a corresponding 64% chance of a Mets win). In fact, the Giants took a narrow 5-4 victory in this game. The scores of both teams are then updated based on how likely it was for this result to happen.
 
-$$ S_{Giants} + 0.64k $$
-$$ S_{Mets} - 0.64k. $$
+$$S_{Giants} + 0.64k$$
+$$S_{Mets} - 0.64k.$$
 
 The value of $k$ is obviously important here and can be tweaked depending on how sensitive you think the results should be. I take a value of $k=24$ here which seems to work ok, and gives new respective scores of 1461 for the Giants and 1230 for the Mets.
 
