@@ -33,6 +33,15 @@ I have developed some interactive web apps for use at public engagement and scho
 * [How can we control an epidemic on a university campus?](https://bit.ly/epi_uni_app)
 * [Discover STEM 2022 workshop](https://colab.research.google.com/drive/1qwQCiG0zUrQxmKWLenDXY_QQGN4SL6gi#scrollTo=fQhNbobhg7QC) (Requires a Sheffield GMail account)
 
+# Modelling baseball results
+
+Combining my loves of maths (and statistics) and baseball, I have started to delve into the world of baseball analytics - or Sabermetrics. I do not consider myself an expert here by any means, but here are some initial analyses I've done of the MLB and my local league.
+
+* [Predicting MLB results and deciding who was the best team in 2023 - attempt 1](/mlb23_pg1)
+* [Predicting MLB results and deciding who was the best team in 2023 - attempt 2](/mlb23_pg3)
+* [Analysing the 2022 British Baseball League (lower) seasin](/bblratings)
+
+
 # Twitter
 
 Follow me for my thoughts on science, academia, politics, sport and assorted random topics.
