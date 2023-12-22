@@ -14617,7 +14617,7 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 <p>This algorithm is then repeated for every game that takes place. With some thought, it is not too tricky to code this up in Python (other programming languages are available).</p>
 <p>Let's take a simple example using the team I support, the San Francisco Giants. After 20 games they had a 7-13 record and an Elo score of 1446 (which we'll call $S_{Giants}$). Their next game was against the New York Mets, who had a rather better 14-8 record and an Elo score of 1546 ($S_{Mets}$). The probability of the Giants winning is then calculated as,</p>
 $$ \frac{1}{1+10^{(S_{Mets}-S_{Giants})/400}} $$<p>which gives a 36% chance (and a corresponding 64% chance of a Mets win). In fact, the Giants took a narrow 5-4 victory in this game. The scores of both teams are then updated based on how likely it was for this result to happen.</p>
-$$ S_{Giants} + 0.64k $$$$ S_{Mets} - 0.64k. $$<p>The value of $k$ is obviously important here and can be tweaked depending on how sensitive you think the results should be. I take a value of $k=24$ here which seems to work ok, and gives new respective scores of 1461 for the Giants and 1230 for the Mets.</p>
+$$ S_{Giants}(\mbox{new}) = S_{Giants} + 0.64k $$$$ S_{Mets}(\mbox{new}) = S_{Mets} - 0.64k. $$<p>The value of $k$ is obviously important here and can be tweaked depending on how sensitive you think the results should be. I take a value of $k=24$ here which seems to work ok, and gives new respective scores of 1461 for the Giants and 1230 for the Mets.</p>
 <p>As you can see, then, we could look at any game of our choosing and determine the probabiliy of each team winning based on their past performances. We can also then use the Elo scores to create a ranked list of the teams. While it has no real bearing on anything, for MLB, where teams do not play each other equal times and are divided into 6 different divisions, it is nice to get a sense of who really was the strongest team of the season.</p>
 <p>The Elo rankings for the full 2023 season are below, along with the actual games won and win percentage.</p>
 <table>
@@ -14637,7 +14637,7 @@ $$ S_{Giants} + 0.64k $$$$ S_{Mets} - 0.64k. $$<p>The value of $k$ is obviously 
 <td style="text-align:right">1587</td>
 <td style="text-align:right">162</td>
 <td style="text-align:right">92</td>
-<td style="text-align:right">0.567901</td>
+<td style="text-align:right">0.568</td>
 </tr>
 <tr>
 <td style="text-align:right">2</td>
@@ -14645,7 +14645,7 @@ $$ S_{Giants} + 0.64k $$$$ S_{Mets} - 0.64k. $$<p>The value of $k$ is obviously 
 <td style="text-align:right">1586</td>
 <td style="text-align:right">162</td>
 <td style="text-align:right">100</td>
-<td style="text-align:right">0.617284</td>
+<td style="text-align:right">0.617</td>
 </tr>
 <tr>
 <td style="text-align:right">3</td>
@@ -14653,7 +14653,7 @@ $$ S_{Giants} + 0.64k $$$$ S_{Mets} - 0.64k. $$<p>The value of $k$ is obviously 
 <td style="text-align:right">1582</td>
 <td style="text-align:right">162</td>
 <td style="text-align:right">99</td>
-<td style="text-align:right">0.611111</td>
+<td style="text-align:right">0.611</td>
 </tr>
 <tr>
 <td style="text-align:right">4</td>
@@ -14661,7 +14661,7 @@ $$ S_{Giants} + 0.64k $$$$ S_{Mets} - 0.64k. $$<p>The value of $k$ is obviously 
 <td style="text-align:right">1581</td>
 <td style="text-align:right">162</td>
 <td style="text-align:right">104</td>
-<td style="text-align:right">0.641975</td>
+<td style="text-align:right">0.642</td>
 </tr>
 <tr>
 <td style="text-align:right">5</td>
@@ -14669,7 +14669,7 @@ $$ S_{Giants} + 0.64k $$$$ S_{Mets} - 0.64k. $$<p>The value of $k$ is obviously 
 <td style="text-align:right">1578</td>
 <td style="text-align:right">162</td>
 <td style="text-align:right">90</td>
-<td style="text-align:right">0.555556</td>
+<td style="text-align:right">0.556</td>
 </tr>
 <tr>
 <td style="text-align:right">6</td>
@@ -14677,7 +14677,7 @@ $$ S_{Giants} + 0.64k $$$$ S_{Mets} - 0.64k. $$<p>The value of $k$ is obviously 
 <td style="text-align:right">1570</td>
 <td style="text-align:right">162</td>
 <td style="text-align:right">101</td>
-<td style="text-align:right">0.623457</td>
+<td style="text-align:right">0.623</td>
 </tr>
 <tr>
 <td style="text-align:right">7</td>
@@ -14685,7 +14685,7 @@ $$ S_{Giants} + 0.64k $$$$ S_{Mets} - 0.64k. $$<p>The value of $k$ is obviously 
 <td style="text-align:right">1566</td>
 <td style="text-align:right">161</td>
 <td style="text-align:right">84</td>
-<td style="text-align:right">0.521739</td>
+<td style="text-align:right">0.522</td>
 </tr>
 <tr>
 <td style="text-align:right">8</td>
@@ -14693,7 +14693,7 @@ $$ S_{Giants} + 0.64k $$$$ S_{Mets} - 0.64k. $$<p>The value of $k$ is obviously 
 <td style="text-align:right">1565</td>
 <td style="text-align:right">162</td>
 <td style="text-align:right">82</td>
-<td style="text-align:right">0.506173</td>
+<td style="text-align:right">0.506</td>
 </tr>
 <tr>
 <td style="text-align:right">9</td>
@@ -14701,7 +14701,7 @@ $$ S_{Giants} + 0.64k $$$$ S_{Mets} - 0.64k. $$<p>The value of $k$ is obviously 
 <td style="text-align:right">1532</td>
 <td style="text-align:right">162</td>
 <td style="text-align:right">89</td>
-<td style="text-align:right">0.549383</td>
+<td style="text-align:right">0.549</td>
 </tr>
 <tr>
 <td style="text-align:right">10</td>
@@ -14709,7 +14709,7 @@ $$ S_{Giants} + 0.64k $$$$ S_{Mets} - 0.64k. $$<p>The value of $k$ is obviously 
 <td style="text-align:right">1523</td>
 <td style="text-align:right">162</td>
 <td style="text-align:right">78</td>
-<td style="text-align:right">0.481481</td>
+<td style="text-align:right">0.481</td>
 </tr>
 <tr>
 <td style="text-align:right">11</td>
@@ -14717,7 +14717,7 @@ $$ S_{Giants} + 0.64k $$$$ S_{Mets} - 0.64k. $$<p>The value of $k$ is obviously 
 <td style="text-align:right">1521</td>
 <td style="text-align:right">162</td>
 <td style="text-align:right">87</td>
-<td style="text-align:right">0.537037</td>
+<td style="text-align:right">0.537</td>
 </tr>
 <tr>
 <td style="text-align:right">12</td>
@@ -14725,7 +14725,7 @@ $$ S_{Giants} + 0.64k $$$$ S_{Mets} - 0.64k. $$<p>The value of $k$ is obviously 
 <td style="text-align:right">1520</td>
 <td style="text-align:right">162</td>
 <td style="text-align:right">76</td>
-<td style="text-align:right">0.469136</td>
+<td style="text-align:right">0.469</td>
 </tr>
 <tr>
 <td style="text-align:right">13</td>
@@ -14733,7 +14733,7 @@ $$ S_{Giants} + 0.64k $$$$ S_{Mets} - 0.64k. $$<p>The value of $k$ is obviously 
 <td style="text-align:right">1520</td>
 <td style="text-align:right">162</td>
 <td style="text-align:right">90</td>
-<td style="text-align:right">0.555556</td>
+<td style="text-align:right">0.556</td>
 </tr>
 <tr>
 <td style="text-align:right">14</td>
@@ -14741,7 +14741,7 @@ $$ S_{Giants} + 0.64k $$$$ S_{Mets} - 0.64k. $$<p>The value of $k$ is obviously 
 <td style="text-align:right">1516</td>
 <td style="text-align:right">162</td>
 <td style="text-align:right">88</td>
-<td style="text-align:right">0.54321</td>
+<td style="text-align:right">0.543</td>
 </tr>
 <tr>
 <td style="text-align:right">15</td>
@@ -14749,7 +14749,7 @@ $$ S_{Giants} + 0.64k $$$$ S_{Mets} - 0.64k. $$<p>The value of $k$ is obviously 
 <td style="text-align:right">1515</td>
 <td style="text-align:right">162</td>
 <td style="text-align:right">82</td>
-<td style="text-align:right">0.506173</td>
+<td style="text-align:right">0.506</td>
 </tr>
 <tr>
 <td style="text-align:right">16</td>
@@ -14757,7 +14757,7 @@ $$ S_{Giants} + 0.64k $$$$ S_{Mets} - 0.64k. $$<p>The value of $k$ is obviously 
 <td style="text-align:right">1502</td>
 <td style="text-align:right">161</td>
 <td style="text-align:right">74</td>
-<td style="text-align:right">0.459627</td>
+<td style="text-align:right">0.460</td>
 </tr>
 <tr>
 <td style="text-align:right">17</td>
@@ -14765,7 +14765,7 @@ $$ S_{Giants} + 0.64k $$$$ S_{Mets} - 0.64k. $$<p>The value of $k$ is obviously 
 <td style="text-align:right">1495</td>
 <td style="text-align:right">162</td>
 <td style="text-align:right">90</td>
-<td style="text-align:right">0.555556</td>
+<td style="text-align:right">0.556</td>
 </tr>
 <tr>
 <td style="text-align:right">18</td>
@@ -14773,7 +14773,7 @@ $$ S_{Giants} + 0.64k $$$$ S_{Mets} - 0.64k. $$<p>The value of $k$ is obviously 
 <td style="text-align:right">1492</td>
 <td style="text-align:right">162</td>
 <td style="text-align:right">84</td>
-<td style="text-align:right">0.518519</td>
+<td style="text-align:right">0.519</td>
 </tr>
 <tr>
 <td style="text-align:right">19</td>
@@ -14781,7 +14781,7 @@ $$ S_{Giants} + 0.64k $$$$ S_{Mets} - 0.64k. $$<p>The value of $k$ is obviously 
 <td style="text-align:right">1486</td>
 <td style="text-align:right">162</td>
 <td style="text-align:right">71</td>
-<td style="text-align:right">0.438272</td>
+<td style="text-align:right">0.438</td>
 </tr>
 <tr>
 <td style="text-align:right">20</td>
@@ -14789,7 +14789,7 @@ $$ S_{Giants} + 0.64k $$$$ S_{Mets} - 0.64k. $$<p>The value of $k$ is obviously 
 <td style="text-align:right">1484</td>
 <td style="text-align:right">162</td>
 <td style="text-align:right">83</td>
-<td style="text-align:right">0.512346</td>
+<td style="text-align:right">0.512</td>
 </tr>
 <tr>
 <td style="text-align:right">21</td>
@@ -14797,7 +14797,7 @@ $$ S_{Giants} + 0.64k $$$$ S_{Mets} - 0.64k. $$<p>The value of $k$ is obviously 
 <td style="text-align:right">1479</td>
 <td style="text-align:right">162</td>
 <td style="text-align:right">82</td>
-<td style="text-align:right">0.506173</td>
+<td style="text-align:right">0.506</td>
 </tr>
 <tr>
 <td style="text-align:right">22</td>
@@ -14805,7 +14805,7 @@ $$ S_{Giants} + 0.64k $$$$ S_{Mets} - 0.64k. $$<p>The value of $k$ is obviously 
 <td style="text-align:right">1470</td>
 <td style="text-align:right">162</td>
 <td style="text-align:right">71</td>
-<td style="text-align:right">0.438272</td>
+<td style="text-align:right">0.438</td>
 </tr>
 <tr>
 <td style="text-align:right">23</td>
@@ -14813,7 +14813,7 @@ $$ S_{Giants} + 0.64k $$$$ S_{Mets} - 0.64k. $$<p>The value of $k$ is obviously 
 <td style="text-align:right">1462</td>
 <td style="text-align:right">162</td>
 <td style="text-align:right">56</td>
-<td style="text-align:right">0.345679</td>
+<td style="text-align:right">0.346</td>
 </tr>
 <tr>
 <td style="text-align:right">24</td>
@@ -14821,7 +14821,7 @@ $$ S_{Giants} + 0.64k $$$$ S_{Mets} - 0.64k. $$<p>The value of $k$ is obviously 
 <td style="text-align:right">1450</td>
 <td style="text-align:right">162</td>
 <td style="text-align:right">76</td>
-<td style="text-align:right">0.469136</td>
+<td style="text-align:right">0.469</td>
 </tr>
 <tr>
 <td style="text-align:right">25</td>
@@ -14829,7 +14829,7 @@ $$ S_{Giants} + 0.64k $$$$ S_{Mets} - 0.64k. $$<p>The value of $k$ is obviously 
 <td style="text-align:right">1428</td>
 <td style="text-align:right">162</td>
 <td style="text-align:right">79</td>
-<td style="text-align:right">0.487654</td>
+<td style="text-align:right">0.488</td>
 </tr>
 <tr>
 <td style="text-align:right">26</td>
@@ -14837,7 +14837,7 @@ $$ S_{Giants} + 0.64k $$$$ S_{Mets} - 0.64k. $$<p>The value of $k$ is obviously 
 <td style="text-align:right">1420</td>
 <td style="text-align:right">162</td>
 <td style="text-align:right">78</td>
-<td style="text-align:right">0.481481</td>
+<td style="text-align:right">0.481</td>
 </tr>
 <tr>
 <td style="text-align:right">27</td>
@@ -14845,7 +14845,7 @@ $$ S_{Giants} + 0.64k $$$$ S_{Mets} - 0.64k. $$<p>The value of $k$ is obviously 
 <td style="text-align:right">1413</td>
 <td style="text-align:right">162</td>
 <td style="text-align:right">73</td>
-<td style="text-align:right">0.450617</td>
+<td style="text-align:right">0.451</td>
 </tr>
 <tr>
 <td style="text-align:right">28</td>
@@ -14853,7 +14853,7 @@ $$ S_{Giants} + 0.64k $$$$ S_{Mets} - 0.64k. $$<p>The value of $k$ is obviously 
 <td style="text-align:right">1394</td>
 <td style="text-align:right">162</td>
 <td style="text-align:right">59</td>
-<td style="text-align:right">0.364198</td>
+<td style="text-align:right">0.364</td>
 </tr>
 <tr>
 <td style="text-align:right">29</td>
@@ -14861,7 +14861,7 @@ $$ S_{Giants} + 0.64k $$$$ S_{Mets} - 0.64k. $$<p>The value of $k$ is obviously 
 <td style="text-align:right">1391</td>
 <td style="text-align:right">162</td>
 <td style="text-align:right">50</td>
-<td style="text-align:right">0.308642</td>
+<td style="text-align:right">0.309</td>
 </tr>
 <tr>
 <td style="text-align:right">30</td>
@@ -14869,7 +14869,7 @@ $$ S_{Giants} + 0.64k $$$$ S_{Mets} - 0.64k. $$<p>The value of $k$ is obviously 
 <td style="text-align:right">1357</td>
 <td style="text-align:right">162</td>
 <td style="text-align:right">61</td>
-<td style="text-align:right">0.376543</td>
+<td style="text-align:right">0.377</td>
 </tr>
 </tbody>
 </table>
@@ -14882,6 +14882,7 @@ $$ S_{Giants} + 0.64k $$$$ S_{Mets} - 0.64k. $$<p>The value of $k$ is obviously 
 <li><p>The World Series eventually took place between the Rangers and the Diamonbacks. They turn out to be the 17th and 18th best teams according to these rankings, suggesting this was a pretty unlikely match-up.</p>
 </li>
 </ol>
+<p>Before we get too carried away with these insights, it was worth thinking about how accurate they might be. Firstly, the Elo Ratings effectively give greater weight to more recent results, as initially everyone had the same score. As such, a team who beat the Brewers near the start of the season would receive less reward than one who beat them later in the season (although,a team who lost them would receive a greater penalty at the start of the season). Also, these are purely judged on win-loss records, giving us less insight into the effectiveness of the teams' offensive and defensive capabilities.</p>
 
 </div>
 </div>
@@ -14894,8 +14895,8 @@ $$ S_{Giants} + 0.64k $$$$ S_{Mets} - 0.64k. $$<p>The value of $k$ is obviously 
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <h2 id="The-post-season">The post-season<a class="anchor-link" href="#The-post-season">&#182;</a></h2><p>We can dwell on that last point a bit further. Given the teams that made it to the post-season, how likely was it that we ended up with a Rangers-Diamondbacks World Series? From all their respective scores, we can simulate multiple runs of the post-season and see how often these were the two teams to reach the final game from their respective leagues. <em>I cheated a bit here and asumed each 'round' was a one-off game for ease</em>. The plots below show the outcome from 10,000 simulated post-seasons.</p>
-<p><img src="aschamps.png" alt="American League" title="Predicted ALDS champions">
-<img src="nschamps.png" alt="National League" title="Predicted NLDS champions"></p>
+<p><img src="aschamps.png" alt="Predicted ALDS champions" width="400"/>
+<img src="nschamps.png" alt="Predicted NLDS champions" width="400"/></p>
 <p>These show the Rangers had a 7% chance of ending up as American League Division Series champions, and the Diamondbacks just a 5% chance of representing the National League. Since the two are independent, <strong>this gives a 0.385% chance of this World Series occurring at the start of the post-season!</strong></p>
 
 </div>

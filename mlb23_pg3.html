@@ -14645,7 +14645,7 @@ $$P(R) = \frac{e^{-\lambda}\lambda^R}{R!}.$$<p>All we need is the mean number of
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h3 id="A-full-model">A full model<a class="anchor-link" href="#A-full-model">&#182;</a></h3><p>Having decided that a negative binomial distribution is a pretty good fit for runs scored in the 2023 season, we can then build up a full model. For each team, this will take in whether it was home or away (I know we've sort of decided there is no home advantage at play overall, but it might still be for some teams) and who the opponent is, and calculate the probability of scoring any number of runs in each game. I won't go into the details here, but it is a relatively straightforward thing to code in and let the software do the job for you. <a href="https://dashee87.github.io/football/python/predicting-football-results-with-statistical-modelling/">I borrowed much of the technical detail from other authors</a>.</p>
+<h3 id="A-full-model">A full model<a class="anchor-link" href="#A-full-model">&#182;</a></h3><p>Having decided that a negative binomial distribution is a pretty good fit for runs scored in the 2023 season, we can then build up a full model. For each team, this will take in whether it was home or away (I know we've sort of decided there is no home advantage at play overall, but it might still be for some teams) and who the opponent is, and calculate the probability of scoring any number of runs in each game. I won't go into the details here, but it is a relatively straightforward thing to code in and let the software do the job for you. <a href="https://dashee87.github.io/football/python/predicting-football-results-with-statistical-modelling/">I borrowed much of the technical detail from other authors</a> and took probably took some small liberties, but for now this will do us.</p>
 <p>What can we do with this model? I have initially run the model with all the 2023 season results except the final week. We can then use our model to predict some of the results.</p>
 <p>Somewhat unluckily, the Giants faced their arch-rivals the Los Angelses Dodgers in the final game of the season. Based on our model, the 'mean' runs scored would be 3.9 for the Giants and 5.3 for the Dodgers. The plot below suggests that the most likely result was a 6-4 win for the Dodgers (note that this plot allows for draws, which obviously doesn't happen in MLB, so we need to exercise a little caution interpreting this plot).</p>
 <p><img src="binomGL.png" alt="National League" title="Predicted runs scored in Giants vs Dodgers game"></p>
@@ -14653,93 +14653,93 @@ $$P(R) = \frac{e^{-\lambda}\lambda^R}{R!}.$$<p>All we need is the mean number of
 <blockquote><p><strong>Careful</strong></p>
 <p>In case it needs stating to anyone: I just got lucky here - remember this is all about probabilities.</p>
 </blockquote>
-<p>In fact, let's look at all of thelast round of games. How do we do with our predictions?</p>
+<p>In fact, let's look at all of the last round of games. How do we do with our predictions?</p>
 <table>
 <thead><tr>
 <th style="text-align:left">Game</th>
-<th>Mean Result</th>
+<th>Most likely Result</th>
 <th>Actual Result</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td style="text-align:left">Cardinals vs Reds</td>
-<td>4.78 - 5.39</td>
+<td>5 - 6</td>
 <td>4 - 3</td>
 </tr>
 <tr>
 <td style="text-align:left">Brewers vs Cubs</td>
-<td>4.31 - 4.31</td>
+<td>4 - 4</td>
 <td>4 - 0</td>
 </tr>
 <tr>
 <td style="text-align:left">Royals vs Yankees</td>
-<td>3.88 - 4.95</td>
+<td>4 - 5</td>
 <td>5 - 2</td>
 </tr>
 <tr>
 <td style="text-align:left">White Sox vs Padres</td>
-<td>3.45 - 5.29</td>
+<td>3 - 6</td>
 <td>1 - 2</td>
 </tr>
 <tr>
 <td style="text-align:left">Mets vs Phillies</td>
-<td>4.16 - 4.74</td>
+<td>4 - 5</td>
 <td>1 - 9</td>
 </tr>
 <tr>
 <td style="text-align:left">Rockies vs Twins</td>
-<td>4.04 - 5.95</td>
+<td>4 - 7</td>
 <td>3 - 2</td>
 </tr>
 <tr>
 <td style="text-align:left">Mariners vs Rangers</td>
-<td>4.53 - 4.81</td>
+<td>5 - 5</td>
 <td>1 - 0</td>
 </tr>
 <tr>
 <td style="text-align:left">Diamondbacks vs Astros</td>
-<td>4.40 - 5.17</td>
+<td>4 - 5</td>
 <td>1 - 8</td>
 </tr>
 <tr>
 <td style="text-align:left">Tigers vs Guardians</td>
-<td>3.82 - 4.07</td>
+<td>4 - 4</td>
 <td>5 - 2</td>
 </tr>
 <tr>
 <td style="text-align:left">Braves vs Nationals</td>
-<td>6.48 - 4.19</td>
+<td>7 - 4</td>
 <td>9 - 10</td>
 </tr>
 <tr>
 <td style="text-align:left">Blue Jays vs Rays</td>
-<td>4.09 - 4.63</td>
+<td>4 - 5</td>
 <td>8 - 12</td>
 </tr>
 <tr>
-<td style="text-align:left">Angles vs Athletics</td>
-<td>5.58 - 4.00</td>
+<td style="text-align:left">Angels vs Athletics</td>
+<td>6 - 4</td>
 <td>7 - 3</td>
 </tr>
 <tr>
 <td style="text-align:left">Pirates vs Marlins</td>
-<td>4.06 - 4.37</td>
+<td>4 - 4</td>
 <td>3 - 0</td>
 </tr>
 <tr>
 <td style="text-align:left">Giants vs Dodgers</td>
-<td>3.91 - 5.34</td>
+<td>4 - 6</td>
 <td>2 - 5</td>
 </tr>
 <tr>
 <td style="text-align:left">Orioles vs Red Sox</td>
-<td>5.20 - 4.51</td>
+<td>5 - 5</td>
 <td>1 - 6</td>
 </tr>
 </tbody>
 </table>
-<p>So in fact, overall, we'd have been wise not to place too many bets based on our model (gambling is bad, kids), as we only correctly prdicted the winner 5 times. But again, these are probabilities, and so while we might be happy that <em>on average</em> we will predict the winner more times than not, there will always be games and schedules where we don't do so well.</p>
+<p>So in fact, overall, we'd have been wise not to place too many bets based on our model (gambling is bad, kids), as of the 10 games that weren't too close to call, we only correctly predicted the winner 6 times. But again, these are probabilities, and so while we might be happy that <em>on average</em> we will predict the winner more times than not, there will always be games and schedules where we don't do so well.</p>
 <p>Can we use this model to determine the best team? This is not completely straightforward, but one approach is to conduct a large number of simulated games based on the probabilities we've just calculated. Here I have set each team to play each other home and away 1500 times (meaning 87000 games per team - this seems to be about enough for things to have settled down, but ideally I'd have run more) and then ranked the by their simulated win percentage.</p>
 <table>
 <thead><tr>
