@@ -16,15 +16,6 @@ After gaining a BSc in Maths & Philosophy (Durham) and an MRes in Mathematical B
 [Click here for my Google Scholar page](https://scholar.google.co.uk/citations?user=KVL_a1kAAAAJ&hl=en).
 
 
-## Prerna Singh
-**PhD student**
-
-<img src="docs/assets/Prerna.jpeg" height="150">
-
-*Host-parasite interactions in fluctuating environments*
-
-My research area consists of the evolution of host-parasite interactions. So, I develop and analyse mathematical models governing the evolutionary dynamics of hosts and parasites in heterogeneous environments. I also study the dynamics of infectious diseases at a range of biological scales. I have obtained my undergraduate degree (BSc) from University of Delhi and masters (MSc) from IIT Madras, India. Apart from that, I have some research expertise in areas related to "e-epidemic modeling". I am really glad to be a part of this amazing research group and the University and hope to make the best out of it. 
-
 ## Megan Oliver
 **PhD student**
 
@@ -41,22 +32,37 @@ I am researching host-parasite relationships when multiple infection is present.
 
 My current research interests focus on population and ecological dynamics of infectious disease systems. In particular, I will be working on the evolutionary modelling of host-parasite associations, concentrating on the coevolution of hosts and their parasites which infect them. Factors I will take into account are, but not limited to, spatial structure, and various trade-offs that arise as a result of the host developing costly resistive strategies against invading parasites.After completing my undergraduate and masters studies in Mathematics at the University of Manchester, I am very happy to join the University of Sheffield, and this great research group. 
 
+## Charly Pain
+**PhD student** *Co-supervised by Ellie Harrison (Biosciences)*
+
+*Rhizobia-legume symbiosis and phage-bacteria co-evolution*
+
+## Jack Woodruff
+**PhD student**
+
+*The impacts of spatial structure on the ecology and evolution of infectious disease*
+
 ## Former students
+
+### Prerna Singh - PhD Student (2019 - 2023)
+*Modelling the resistance of bacteria through bet-hedging strategies*
+
+Next step: Postdoctoral research position at Princeton University.
 
 ### Laminu Idris - PhD Student (2017 - 2022)
 *Modelling the resistance of bacteria through bet-hedging strategies*
 
-Next step: University teaching post
+Next step: University teaching post.
 
 ### Charlotte Ward - PhD Student (2017 - 2020)
 *The impact of seasonality on disease dynamics*
 
-Next step: Research ecologist at British Trust for Ornithology
+Next step: Research ecologist at British Trust for Ornithology.
 
 ### Caterina Vitale - PhD Student (2016 - 2020)
 *The ecology and evolution of host tolerance to disease*
 
-Next step: Graduate job at international consultancy firm
+Next step: Graduate job at international consultancy firm.
 
 ### Charlotte Ferris - PhD Student (2015 - 2019)
 *The evolution of host defence in variable environments*
@@ -66,4 +72,4 @@ Next step: Trained to become a secondary-school maths teacher.
 ### Jaspreet Toor - PhD Student (2013 - 2016)
 *The evolution of hosts and parasites in complex communities*
 
-Next step: Postdoctoral position at Imperial. 
+Next step: Postdoctoral research position at Imperial College, London. 
