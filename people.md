@@ -40,12 +40,16 @@ My current research interests focus on population and ecological dynamics of inf
 ## Jack Woodruff
 **PhD student**
 
+<img src="docs/assets/Jack.jpg" height="150">
+
 *The impacts of spatial structure on the ecology and evolution of infectious disease*
+
+My current research interests focus on spatial structure within infectious disease models. My first area of research will be focusing on vertical transmission, and how this affects host reproductivity within a spatially structured model. During my PhD, I hope to begin to apply spatially structured infectious disease models to forests. Having finished my integrated Masters in Mathematics (York) back in 2020, I am enjoying returning to the study of mathematics.
 
 ## Former students
 
 ### Prerna Singh - PhD Student (2019 - 2023)
-*Modelling the resistance of bacteria through bet-hedging strategies*
+*The evolution and coevolution of host tolerance to arasites*
 
 Next step: Postdoctoral research position at Princeton University.
 
