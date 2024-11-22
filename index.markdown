@@ -42,8 +42,9 @@ Combining my loves of maths (and statistics) and baseball, I have started to del
 * [Analysing the 2022 British Baseball League (lower) seasin](/bblratings)
 
 
-# Twitter
+# Bluesky
+
+I no longer use X. You can find me on Bluesky with the handle @bestieboy.bsky.social 
 
 Follow me for my thoughts on science, academia, politics, sport and assorted random topics.
 
-<a class="twitter-timeline" data-width="300" data-height="500" href="https://twitter.com/DrAlexBest?ref_src=twsrc%5Etfw">Tweets by DrAlexBest</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
