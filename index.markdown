@@ -1,9 +1,15 @@
-I am a maths lecturer, disease modeller, parent, husband, book-lover, amateur cook and very amateur baseball player.
+I am a maths lecturer, disease modeller, parent, husband, book-lover, amateur percussionist and very amateur baseball player.
 
 <p float="middle">
   <img src="docs/assets/spatial.gif" height="150" />
   <img src="docs/assets/forestfire.gif" height="150" /> 
 </p>
+
+# PhD Advert
+
+We are currently advertising a PhD project to model the spread and growth of insect pests in UK woodlands. Please see the aderts below.
+* [PDF version](/PhD Advert.pdf)
+* [Accessible markdown version](/PhD Advert.md)
 
 # Research
 
@@ -23,7 +29,7 @@ I teach a range of mathematics and statistics modules, mostly focussing on mathe
 
 # Equality, diversity and inclusion
 
-I am a passionate advocate for making academia, and mathematics/statistics specifically, a welcoming and inclusive environment. I recognise that many individuals from minoritised groups often feel excluded from academic mathematics, and do not receive the support or recognition given to their peers. From 2018-2022 I was the Director for Equality, Diversity and Inclusion in my department, and led a number of activities and policies to promote good practice. Since 2022 I have been a member of the [London Mathematical Society's Good Practice Scheme](https://www.lms.ac.uk/women/good-practice-scheme) steering committee, helping to organise events for mathematicians across the country. I am currently particularly interested in embedding inclusive teaching practices into our curriculum.
+I am a passionate advocate for making academia, and mathematics/statistics specifically, a welcoming and inclusive environment. I recognise that many individuals from minoritised groups often feel excluded from academic mathematics, and do not receive the support or recognition given to their peers. From 2018-2022 I was the Director for Equality, Diversity and Inclusion in my department, and led a number of activities and policies to promote good practice. Since 2023 I have been co-chair of the [London Mathematical Society's Good Practice Scheme](https://www.lms.ac.uk/women/good-practice-scheme) steering committee, helping to organise events for mathematicians across the country. 
 
 # Public engagement
 
