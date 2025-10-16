@@ -8,8 +8,8 @@ I am a maths lecturer, disease modeller, parent, husband, book-lover, amateur pe
 # PhD Advert
 
 We are currently advertising a PhD project to model the spread and growth of insect pests in UK woodlands. Please see the aderts below.
-* [PDF version](/PhD Advert.pdf)
-* [Accessible markdown version](/PhD Advert.md)
+* [PDF version](/PhDAdvert.pdf)
+* [Accessible markdown version](/PhDAdvert.md)
 
 # Research
 
