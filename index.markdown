@@ -5,6 +5,12 @@ I am a maths lecturer, disease modeller, parent, husband, book-lover, amateur pe
   <img src="docs/assets/forestfire.gif" height="150" /> 
 </p>
 
+# 2026 Modelling Epidmeics Workshop
+
+For the 2026 Modelling Epidemics Workshop taster session please use the following link:
+
+* [2026 Modelling Epidemics Workshop]([https://bit.ly/local_epi](https://colab.research.google.com/drive/1c3X36rKUGfiNu1IKc5qbRZxcS7325-RN))
+  
 # PhD Advert
 
 We are currently advertising a PhD project to model the spread and growth of insect pests in UK woodlands. Please see the aderts below.
