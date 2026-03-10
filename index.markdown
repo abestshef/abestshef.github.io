@@ -5,7 +5,7 @@ I am a maths lecturer, disease modeller, parent, husband, book-lover, and brass 
   <img src="docs/assets/forestfire.gif" height="150" /> 
 </p>
 
-# 2026 Modelling Epidmeics Workshop
+# 2026 Modelling Epidemics Workshop
 
 For the 2026 Modelling Epidemics Workshop taster session please use the following link:
 
