@@ -4,7 +4,7 @@ description: "Who we are and what we do."
 ---
 
 ## Alex Best
-**Lecturer and group leader**
+**Senior Lecturer and group leader**
 
 <img src="docs/assets/Alex.JPG" height="150">
 
