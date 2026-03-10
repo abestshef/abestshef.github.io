@@ -21,7 +21,7 @@
 title: Dr Alex Best
 email: a.best@shef.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  Lecturer in mathematics and statistics at the University of Sheffield.
+  Senior lecturer in mathematics and statistics at the University of Sheffield.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: dralexbest
