@@ -5,15 +5,19 @@ I am a maths lecturer, disease modeller, parent, husband, book-lover, and brass 
   <img src="docs/assets/forestfire.gif" height="150" /> 
 </p>
 
-# 2026 Modelling Epidemics Workshop
+# Taster Session Workshop
 
 For the 2026 Modelling Epidemics Workshop taster session please use the following link:
 
 * [2026 Modelling Epidemics Workshop](https://colab.research.google.com/drive/1c3X36rKUGfiNu1IKc5qbRZxcS7325-RN)
+
+For the Aston Academy Axiom Day use this:
+
+* [Aston Axiom Day](https://colab.research.google.com/drive/1ApQwX7A-jkrfBQpenN5ZEyl0-MonelDe?usp=sharing)
   
 # PhD Advert
 
-We are currently advertising a PhD project to model the spread and growth of insect pests in UK woodlands. Please see the aderts below.
+I am always keen to hear from students interested in pursuing PhD study in mathematical modelling. In particular I am likely to offer projects focussed on the spread of disease or pests in forests. The advert below for a previously offered project gives some idea as to the sort of topic I'd offer.
 * [PDF version](/PhdAdvert.pdf)
 * [Accessible markdown version](/PhdAdvert.md)
 
