@@ -4,18 +4,8 @@ I am a maths lecturer, disease modeller, parent, husband, book-lover, and brass 
   <img src="docs/assets/spatial.gif" height="150" />
   <img src="docs/assets/forestfire.gif" height="150" /> 
 </p>
-
-# Taster Session Workshop
-
-For the 2026 Modelling Epidemics Workshop taster session please use the following link:
-
-* [2026 Modelling Epidemics Workshop](https://colab.research.google.com/drive/1c3X36rKUGfiNu1IKc5qbRZxcS7325-RN)
-
-For the Aston Academy Axiom Day use this:
-
-* [Aston Axiom Day](https://colab.research.google.com/drive/1ApQwX7A-jkrfBQpenN5ZEyl0-MonelDe?usp=sharing)
   
-# PhD Advert
+# Interested in PhD study?
 
 I am always keen to hear from students interested in pursuing PhD study in mathematical modelling. In particular I am likely to offer projects focussed on the spread of disease or pests in forests. The advert below for a previously offered project gives some idea as to the sort of topic I'd offer.
 * [PDF version](/PhdAdvert.pdf)
@@ -31,35 +21,26 @@ In our group we use mathematical and computational tools to understand the ecolo
 
 # Teaching
 
-I teach a range of mathematics and statistics modules, mostly focussing on mathematical modelling of real-world problems. You can find materials for current courses below:
+I teach a range of mathematics and statistics modules, mostly focussing on mathematical modelling of real-world problems. You can find materials for recent courses below:
 
 * [MAS377 Mathematical Biology](/mas377/)
 * [MAS316 Mathematical Modelling of Natural Systems](/mas316notes) (notes only)
 
 # Equality, diversity and inclusion
 
-I am a passionate advocate for making academia, and mathematics/statistics specifically, a welcoming and inclusive environment. I recognise that many individuals from minoritised groups often feel excluded from academic mathematics, and do not receive the support or recognition given to their peers. From 2018-2022 I was the Director for Equality, Diversity and Inclusion in my department, and led a number of activities and policies to promote good practice. Since 2023 I have been co-chair of the [London Mathematical Society's Good Practice Scheme](https://www.lms.ac.uk/women/good-practice-scheme) steering committee, helping to organise events for mathematicians across the country. 
+I am a passionate advocate for making academia, and mathematics/statistics specifically, a welcoming and inclusive environment. I recognise that many individuals from minoritised groups often feel excluded from academic mathematics, and do not receive the support or recognition given to their peers. I have held Equality, Diversity and Inclusion leadership roles in my School since 2018, and have led a number of activities and policies to promote good practice. Since 2023 I have been co-chair of the [London Mathematical Society's Good Practice Scheme](https://www.lms.ac.uk/women/good-practice-scheme) steering committee, helping to organise events for mathematicians across the country. 
 
 # Public engagement
 
-I have developed some interactive web apps for use at public engagement and schools outreach events:
+I regularly give talks at local schools and at University taster days. As part of this I have developed some interactive web apps for use at public engagement and schools outreach events:
 
-* [How do local interactions impact an epidemic?](https://bit.ly/local_epi)
-* [How can we control an epidemic on a university campus?](https://bit.ly/epi_uni_app)
+* [How do different ocntrol strategie simpact the spread of disease in a forest nursery?](https://abestshef.shinyapps.io/apppy1/))
 * [Discover STEM 2022 workshop](https://colab.research.google.com/drive/1qwQCiG0zUrQxmKWLenDXY_QQGN4SL6gi#scrollTo=fQhNbobhg7QC) (Requires a Sheffield GMail account)
 
-# Modelling baseball results
-
-Combining my loves of maths (and statistics) and baseball, I have started to delve into the world of baseball analytics - or Sabermetrics. I do not consider myself an expert here by any means, but here are some initial analyses I've done of the MLB and my local league.
+Combining my loves of maths (and statistics) and baseball, I have also done a little delving into the world of baseball analytics - or Sabermetrics. I do not consider myself an expert here by any means, but here are some initial analyses I've done of the MLB and my local league.
 
 * [Predicting MLB results and deciding who was the best team in 2023 - attempt 1](/mlb23_pg1)
 * [Predicting MLB results and deciding who was the best team in 2023 - attempt 2](/mlb23_pg3)
 * [Analysing the 2022 British Baseball League (lower) seasin](/bblratings)
 
-
-# Bluesky
-
-I no longer use X. You can find me on Bluesky with the handle @bestieboy.bsky.social 
-
-Follow me for my thoughts on science, academia, politics, sport and assorted random topics.
 
